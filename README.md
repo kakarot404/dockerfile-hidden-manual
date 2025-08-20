@@ -15,7 +15,6 @@ Organized by topic — each folder includes Dockerfiles, `.dockerignore` files, 
 | [`/basic`](./basic) | Dockerfile 101, build context, cache, anatomy of a clean Dockerfile |
 | [`/multistage`](./multistage) | Multistage builds, builder/runtime split, Alpine-based final images |
 | [`/prod-ready`](./prod-ready) | Non-root builds, image hardening, Trivy scanning, pinned versions |
-| [`/ci-cd-ready`](./ci-cd-ready) | Dockerfiles adapted for GitHub Actions, GitLab CI |
 | [`/weird-cases`](./weird-cases) | BuildKit features, dynamic COPY, secrets, modular Dockerfiles |
 
 ---
